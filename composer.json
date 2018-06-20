@@ -1,7 +1,7 @@
 {
     "name": "yccphp/sugar-framework",
     "description": "sugar php framework",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
