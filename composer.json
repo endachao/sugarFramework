@@ -1,0 +1,21 @@
+{
+    "name": "yccphp/sugar",
+    "description": "sugar php framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "YuanChao",
+            "email": "yccphp@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.*",
+        "ext-swoole": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sugar\\":"src/"
+        }
+    }
+}
